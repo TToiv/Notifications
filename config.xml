@@ -22,5 +22,5 @@
     <plugin name="cordova-plugin-local-notification"/>
 	<!-- required plugins go here -->
 	     
-
+<preference name="phonegap-version" value="cli-7.0.1"/>
 </widget>
