@@ -68,8 +68,6 @@ function createNotification() {
     	id: 		1,
         title: 		"Hey you",
         text: 	"This is an example notification",
-        firstAt: 		notificationTime, 
-        badge: 		notification_count++
    	});
     
 }
