@@ -34,7 +34,6 @@ function createDialog() {
 	//here's a simple example
       
 	navigator.notification.confirm(
-    	'Don#t work too much!',  // message
         dialogDismissed,         // callback
         'Are you tired?',            // title
         ['Yes!', 'No']                  // buttons
