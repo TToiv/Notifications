@@ -25,7 +25,6 @@ function createMessage(){
     //so we can add this using toast.js
     new Toast({content: 'asdasdsadsadsadsadsa', duration: 10000}); 	
 }
-
         	
 
 function createDialog() {
